@@ -3,8 +3,8 @@
 using namespace std;
 
 void addEdge(vector<vector<int>> &mat,
-             int i,
-             int j,
+             int i, 
+             int j,  
              int bobot) {
 
     mat[i][j] = bobot;
